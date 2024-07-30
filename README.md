@@ -24,14 +24,14 @@ Siga os passos abaixo para configurar e executar o projeto em sua máquina local
    Clone este repositório usando o comando `git clone`.
 
    ```bash
-   git clone https://github.com/seu-usuario/cadastro-clientes.git
+   git clone https://github.com/correaeduardo/CadastroClientes.git
 
 2. **Entre na Pasta do Projeto**
 
    Navegue até o diretório do projeto.
 
    ```bash
-   cd cadastro-clientes
+   cd CadastroClientes
 
 3. **Instale as Dependências**
 
